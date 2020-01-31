@@ -1,4 +1,4 @@
-baseURL = "www.meetmj.com"
+baseURL = "http://www.meetmj.com"
 languageCode = "en-us"
 title = "Michael Jiang"
 theme = "hugo-lodi-theme"
