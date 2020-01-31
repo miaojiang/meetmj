@@ -1,6 +1,0 @@
-[submodule "themes/basic-business"]
-	path = themes/basic-business
-	url = https://github.com/cowboysmall-tools/hugo-business-frontpage-theme.git
-[submodule "themes/hugo-lodi-theme"]
-	path = themes/hugo-lodi-theme
-	url = https://github.com/xaviablaza/hugo-lodi-theme.git
